@@ -1,5 +1,6 @@
 # ABC-Call-Volume-Trend-Analysis
-video explaination link: https://www.loom.com/share/ddbe5ff1eb8d40289557be3d61827fbf?sid=55449d85-d546-45a4-9320-089a6125286b
+video explaination link: https://youtu.be/zuFghuwaWP0
+<br> medium blog link: 
 <br>
 <br>
 Analyzing inbound calling team data of a company, to extract useful insights that can help in providing recommendations for manpower planning to reduce call abandonment rate and improve customer experience.
