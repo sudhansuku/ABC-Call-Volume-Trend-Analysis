@@ -1,6 +1,6 @@
 # ABC-Call-Volume-Trend-Analysis
 video explaination link: https://youtu.be/zuFghuwaWP0
-<br> medium blog link: 
+<br> medium blog link: https://medium.com/@sudhansukumar2556/diving-into-the-world-of-customer-experience-cx-analytics-analysing-inbound-calling-team-7eedc38a177c
 <br>
 <br>
 Analyzing inbound calling team data of a company, to extract useful insights that can help in providing recommendations for manpower planning to reduce call abandonment rate and improve customer experience.
